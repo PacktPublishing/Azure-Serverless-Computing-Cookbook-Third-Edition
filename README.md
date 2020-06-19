@@ -1,7 +1,7 @@
-[![GitHub issues](https://img.shields.io/github/issues/TrainingByPackt/Azure-Serverless-Computing-Cookbook..svg)](https://github.com/TrainingByPackt/Azure-Serverless-Computing-Cookbook./issues)
-[![GitHub forks](https://img.shields.io/github/forks/TrainingByPackt/Azure-Serverless-Computing-Cookbook..svg)](https://github.com/TrainingByPackt/Azure-Serverless-Computing-Cookbook./network)
-[![GitHub stars](https://img.shields.io/github/stars/TrainingByPackt/Azure-Serverless-Computing-Cookbook..svg)](https://github.com/TrainingByPackt/Azure-Serverless-Computing-Cookbook./stargazers)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/TrainingByPackt/Azure-Serverless-Computing-Cookbook./pulls)
+[![GitHub issues](https://img.shields.io/github/issues/TrainingByPackt/Azure-Serverless-Computing-Cookbook..svg)](https://github.com/TrainingByPackt/Azure-Serverless-Computing-Cookbook-Third-Edition/issues)
+[![GitHub forks](https://img.shields.io/github/forks/TrainingByPackt/Azure-Serverless-Computing-Cookbook..svg)](https://github.com/TrainingByPackt/Azure-Serverless-Computing-Cookbook-Third-Edition/network)
+[![GitHub stars](https://img.shields.io/github/stars/TrainingByPackt/Azure-Serverless-Computing-Cookbook..svg)](https://github.com/TrainingByPackt/Azure-Serverless-Computing-Cookbook-Third-Edition/stargazers)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/TrainingByPackt/Azure-Serverless-Computing-Cookbook-Third-Edition/pulls)
 
 # Azure Serverless Computing Cookbook
 This third edition of Azure Serverless Computing Cookbook guides you through the development of a basic back-end web API that performs simple operations, helping you understand how to persist data in Azure Storage services. You'll cover the integration of Azure Functions with other cloud services, such as notifications (SendGrid and Twilio), Cognitive Services (computer vision), and Logic Apps, to build simple workflow-based applications.
@@ -16,6 +16,19 @@ By the end of this Azure book, you'll have gained the knowledge and practical ex
 * Automate mundane tasks at various levels, from development to deployment and maintenance
 * Develop stateful serverless applications and self-healing jobs using durable functions
 
+### Instructions and Navigations
+All of the code is organized into folders. For example, Chapter02.
+
+The code will look like the following:
+```
+using System.Net;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Primitives;
+using Newtonsoft.Json;
+```
+**Following is what you need for this book:**
+If you are a cloud developer or architect who wants to build cloud-native systems and deploy serverless applications with Azure functions, this book is for you. Prior experience with Microsoft Azure core services will help you to make the most out of this book.	
+
 ### Software Requirement
 For an optimal learning experience, we recommend the following configuration:
 * Visual Studio 2019
@@ -24,3 +37,8 @@ For an optimal learning experience, we recommend the following configuration:
 * Processor: Intel Core i5 or equivalent
 * Memory: 4 GB RAM (8 GB preferred)
 * Storage: 35 GB available space
+
+### Get to Know the Author
+Praveen Kumar Sreeram is an author, Microsoft Certified Trainer, and certified Azure Solutions Architect. He has over 15 years of experience in the field of development, analysis, design, and the delivery of applications of various technologies. His projects range from custom web development using ASP.NET and MVC to building mobile apps using the cross-platform Xamarin technology for domains such as insurance, telecom, and wireless expense management. He has been given the Most Valuable Professional award twice by one of the leading social community websites, CSharpCorner, for his contributions to the Microsoft Azure community through his articles. Praveen is highly focused on learning about technology, and blogs about his learning regularly. You can also follow him on Twitter at @PrawinSreeram. Currently, his focus is on analyzing business problems and providing technical solutions for various projects related to Microsoft Azure and .NET Core.
+
+
