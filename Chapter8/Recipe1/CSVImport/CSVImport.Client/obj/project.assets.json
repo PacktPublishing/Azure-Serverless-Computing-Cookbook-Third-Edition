@@ -1,0 +1,59 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": []
+  },
+  "packageFolders": {
+    "C:\\Users\\vmadmin\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Cookbook\\Version3\\Azure Serverless computing cookbook\\Source Code\\Chapter8\\Recipe1\\CSVImport\\CSVImport.Client\\CSVImport.Client.csproj",
+      "projectName": "CSVImport.Client",
+      "projectPath": "C:\\Cookbook\\Version3\\Azure Serverless computing cookbook\\Source Code\\Chapter8\\Recipe1\\CSVImport\\CSVImport.Client\\CSVImport.Client.csproj",
+      "packagesPath": "C:\\Users\\vmadmin\\.nuget\\packages\\",
+      "outputPath": "C:\\Cookbook\\Version3\\Azure Serverless computing cookbook\\Source Code\\Chapter8\\Recipe1\\CSVImport\\CSVImport.Client\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\vmadmin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://pkgs.dev.azure.com/prawin2k/DevOps/_packaging/mypackages/nuget/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461"
+        ],
+        "assetTargetFallback": true,
+        "warn": true
+      }
+    }
+  }
+}

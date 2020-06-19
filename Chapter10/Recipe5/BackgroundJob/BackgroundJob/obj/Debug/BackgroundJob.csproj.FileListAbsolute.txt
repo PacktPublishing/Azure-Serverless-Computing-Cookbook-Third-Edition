@@ -1,0 +1,6 @@
+C:\Users\vmadmin\source\repos\BackgroundJob\BackgroundJob\bin\Debug\BackgroundJob.exe.config
+C:\Users\vmadmin\source\repos\BackgroundJob\BackgroundJob\bin\Debug\BackgroundJob.exe
+C:\Users\vmadmin\source\repos\BackgroundJob\BackgroundJob\bin\Debug\BackgroundJob.pdb
+C:\Users\vmadmin\source\repos\BackgroundJob\BackgroundJob\obj\Debug\BackgroundJob.csprojAssemblyReference.cache
+C:\Users\vmadmin\source\repos\BackgroundJob\BackgroundJob\obj\Debug\BackgroundJob.exe
+C:\Users\vmadmin\source\repos\BackgroundJob\BackgroundJob\obj\Debug\BackgroundJob.pdb

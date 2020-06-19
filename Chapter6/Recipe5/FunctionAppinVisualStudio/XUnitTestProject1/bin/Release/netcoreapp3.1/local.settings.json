@@ -1,0 +1,10 @@
+{
+    "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=azurefunctioncookbooks;AccountKey=9zLUjKb4JEcgsVxfqXV+77rf8BcfSv+GULpa4kO4CQKfcLKjDMiYD2MZRrKnYnWiv7aIAmJc5dfm2X4CfLt6jg==;EndpointSuffix=core.windows.net",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "AI_APP_ID": "afd6dd68-6a60-4201-8eec-814acd82724d",
+    "AI_APP_KEY": "azx36mh8qifhsvon22wlbdwfcmmfwi5ypsmlsbv7",
+    "AI_IKEY": "dde9ad5a-3d62-4738-8928-f56733215115"
+  }
+}
