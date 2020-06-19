@@ -1,0 +1,21 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "SendGridApiKey": "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",
+    "WEBSITE_SLOT_NAME": "Production",
+    "FUNCTIONS_EXTENSION_VERSION": "~3",
+    "WEBSITE_AUTH_ENABLED": "False",
+    "REMOTEDEBUGGINGVERSION": "16.0.28729.10",
+    "azurefunctionscookbooks_STORAGE": "DefaultEndpointsProtocol=https;AccountName=azurefunctionscookbooks;AccountKey=hd77CsJlkwH/yN1K+7Y/yKwiTACc4GLUDbvyaT0gUKmeOGw887lxV0XpGccG+8fvWkpGZXoy0+eVeWhGFqNOtA==",
+    "FUNCTIONS_RUNTIME_SCALE_MONITORING_ENABLED": "0",
+    "APPINSIGHTS_INSTRUMENTATIONKEY": "6c480adb-ece8-4c31-8e98-f5c6e8703ee5",
+    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "DefaultEndpointsProtocol=https;AccountName=storageaccountazurea108;AccountKey=nuIKKa7HLKf/d1VTpfDeP4+952FokqeGQxUeyqs3PklEPHkw/qHboPjDxbnY8SAx1mxi5jBSbCXhQm5teO1ALQ==;EndpointSuffix=core.windows.net",
+    "ScmType": "None",
+    "WEBSITE_CONTENTSHARE": "azureserverlessfunctioncookbook8a68",
+    "WEBSITE_AUTH_AUTO_AAD": "False",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "WEBSITE_SITE_NAME": "AzureServerlessFunctionCookbook",
+    "WEBSITE_AUTH_LOGOUT_PATH": "/.auth/logout",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=storageaccountazurea108;AccountKey=nuIKKa7HLKf/d1VTpfDeP4+952FokqeGQxUeyqs3PklEPHkw/qHboPjDxbnY8SAx1mxi5jBSbCXhQm5teO1ALQ==;EndpointSuffix=core.windows.net"
+  }
+}

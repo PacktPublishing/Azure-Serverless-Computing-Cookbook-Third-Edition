@@ -1,0 +1,26 @@
+﻿{
+  "bindings": [
+    {
+      "name": "myBlob",
+      "type": "blobTrigger",
+      "direction": "in",
+      "path": "userprofileimagecontainer/{name}",
+      "connection": "azurefunctionscookbooks_STORAGE"
+    },
+    {
+      "type": "blob",
+      "name": "imageSmall",
+      "path": "userprofilesmallimagecontainer/{name}",
+      "connection": "azurefunctionscookbooks_STORAGE",
+      "direction": "out"
+    },
+    {
+      "type": "blob",
+      "name": "imageMedium",
+      "path": "userprofilemediumimagecontainer/{name}",
+      "connection": "azurefunctionscookbooks_STORAGE",
+      "direction": "out"
+    }
+  ],
+  "disabled": false
+}

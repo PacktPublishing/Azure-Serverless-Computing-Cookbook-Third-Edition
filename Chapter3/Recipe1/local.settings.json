@@ -1,0 +1,20 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_RUNTIME_SCALE_MONITORING_ENABLED": "0",
+    "WEBSITE_SLOT_NAME": "Production",
+    "FUNCTIONS_EXTENSION_VERSION": "~3",
+    "WEBSITE_AUTH_ENABLED": "False",
+    "REMOTEDEBUGGINGVERSION": "16.0.28729.10",
+    "azurefunctionscookbooks_STORAGE": "",
+    "Vision_API_Subscription_Key": "",
+    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "",
+    "ScmType": "None",
+    "WEBSITE_CONTENTSHARE": "",
+    "WEBSITE_AUTH_AUTO_AAD": "False",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "WEBSITE_SITE_NAME": "AzureFunctionComputerVision",
+    "WEBSITE_AUTH_LOGOUT_PATH": "/.auth/logout",
+    "AzureWebJobsStorage": ""
+  }
+}

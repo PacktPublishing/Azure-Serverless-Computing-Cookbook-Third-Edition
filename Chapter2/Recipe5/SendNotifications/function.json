@@ -1,0 +1,37 @@
+﻿{
+  "bindings": [
+    {
+      "name": "myQueueItem",
+      "type": "queueTrigger",
+      "direction": "in",
+      "queueName": "notificationqueue",
+      "connection": "azurefunctionscookbooks_STORAGE"
+    },
+    {
+      "type": "sendGrid",
+      "name": "message",
+      "apiKey": "SendGridApiKey",
+      "to": "prawin2k@gmail.com",
+      "from": "donotreply@example.com",
+      "subject": "Message Subject",
+      "text": "Body body",
+      "direction": "out"
+    },
+    {
+      "type": "blob",
+      "name": "outputBlob",
+      "path": "userregistrationemaillogs/{rand-guid}",
+      "connection": "azurefunctionscookbooks_STORAGE",
+      "direction": "out"
+    },,
+    {
+      "type": "twilioSms",
+      "name": "objsmsmessage",
+      "accountSidSetting": "TwilioAccountSid",
+      "authTokenSetting": "TwilioAuthToken",
+      "from": "+14103949663",
+      "direction": "out"
+    }
+  ],
+  "disabled": false
+}
